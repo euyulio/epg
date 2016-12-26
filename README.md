@@ -1,4 +1,4 @@
-# epg
+# EPG - Channel guide for IKS66 service
 
 This is based on viper8690 source code.
 
