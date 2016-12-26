@@ -10,3 +10,8 @@ http://epg.euyulio.org
 I have to pay a subcription to get the channel guides so donations are welcome :)
 
 enjoy!
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b0c1151c1489cfe5e219b4890c696358b8bdf425
