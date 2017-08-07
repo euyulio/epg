@@ -233,53 +233,6 @@
 		<display-name>Love Nature</display-name>
 		<icon height="270" src="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s52745_h3_aa.png" width="360" />
 	</channel>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807142500 +0000" stop="20170807143000 +0000">
-		<title lang="en">Scout &amp; the Gumboot Kids</title>
-		<sub-title lang="en">The Case of the Busy Builder</sub-title>
-		<desc lang="en">The Gumboot Kids head out to a marshland to figure out who built a wooden lodge.</desc>
-		<date>20170418</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Environment</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Daniel Tiger's Neighborhood</title>
-		<sub-title lang="en">Thank You, Grandpere Tiger!; Neighborhood Thank You Day</sub-title>
-		<desc lang="en">Grandpere Tiger visits; Daniel can't decide what he wants to write on his thank you note.</desc>
-		<date>20121025</date>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Entertainment</category>
-		</programme>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Our Toronto</title>
-		<desc lang="en">People and events making an impact on Toronto.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">CBC News Network [New]</title>
-		<desc lang="en">Breaking news from Canada and around the world.</desc>
-		<category lang="en">News</category>
-		<new />
-		</programme>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">marketplace</title>
-		<sub-title lang="en">Parking Mad</sub-title>
-		<desc lang="en">Parking ticket data from across the country reveals the top ticket traps.</desc>
-		<date>20161118</date>
-		<category lang="en">Consumer</category>
-		</programme>
-	<programme channel="I210.10091.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Escape to the Country [New]</title>
-		<sub-title lang="en">Lanarkshire</sub-title>
-		<desc lang="en">Nicki helps a couple who are hoping for a better work-life balance in Lanarkshire; Nicki learns about Eriskay Pony.</desc>
-		<date>20121120</date>
-		<category lang="en">House/garden</category>
-		<category lang="en">Home improvement</category>
-		<category lang="en">Bus./financial</category>
-		<new />
-		</programme>
 	<programme channel="I210.10091.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">The Goods</title>
 		<desc lang="en">Steven DIYs a cat scratcher and a dog leash; testing the latest pet gadgets; some exotic animals stop by; the search for Canada's Next Top Dog.</desc>
@@ -928,39 +881,37 @@
 		<category lang="en">Reality</category>
 		<category lang="en">Bus./financial</category>
 		</programme>
-	<programme channel="I212.10108.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">The Marilyn Denis Show [New]</title>
-		<desc lang="en">Chefs, Roger Mooking, Anna Olson, Christine Cushing and Rodney Bowers, prepare a summer party menu.</desc>
-		<date>20170807</date>
-		<category lang="en">Talk</category>
+	<programme channel="I210.10091.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CBC News Network [New]</title>
+		<desc lang="en">Breaking news from Canada and around the world.</desc>
+		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I212.10108.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">The View</title>
-		<desc lang="en">Reality TV star Kim Kardashian West; author David Grann.</desc>
-		<date>20170620</date>
-		<category lang="en">Talk</category>
-		</programme>
-	<programme channel="I212.10108.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Tommy Takes Us: Destination Design</title>
-		<desc lang="en">A tour of four design destinations around the world.</desc>
-		<category lang="en">Travel</category>
-		<category lang="en">Special</category>
-		</programme>
-	<programme channel="I212.10108.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Marilyn &amp; Debbie's Tuscan Adventure</title>
-		<desc lang="en">Marilyn Denis and Debbie Travis travel to Italy for a hands-on cooking lesson and take a tour of Tuscany.</desc>
-		<category lang="en">Travel</category>
-		<category lang="en">Cooking</category>
-		<category lang="en">Documentary</category>
-		<category lang="en">Special</category>
-		</programme>
-	<programme channel="I212.10108.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">The Social [New]</title>
-		<desc lang="en">The host of Gusto's The Latin Kitchen demonstrates how to make delicious Mexican dishes.</desc>
-		<date>20170807</date>
-		<category lang="en">Talk</category>
+	<programme channel="I210.10091.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Escape to the Country [New]</title>
+		<sub-title lang="en">South Wales</sub-title>
+		<desc lang="en">Jules helps a couple look for a home in South Wales; Jules learns about the value of woollen blankets.</desc>
+		<date>20121122</date>
+		<category lang="en">House/garden</category>
+		<category lang="en">Home improvement</category>
+		<category lang="en">Bus./financial</category>
 		<new />
+		</programme>
+	<programme channel="I210.10091.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">The Goods</title>
+		<desc lang="en">Steven experiments with floral design; a brain test; Jessi tests ab-defining creams on men.</desc>
+		<date>20170327</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Fashion</category>
+		<category lang="en">Home improvement</category>
+		</programme>
+	<programme channel="I210.10091.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Heartland</title>
+		<sub-title lang="en">Thread the Needle</sub-title>
+		<desc lang="en">Amy tries to help an RCMP constable fulfill his dream of performing in the RCMP Musical Ride.</desc>
+		<date>20131103</date>
+		<category lang="en">Drama</category>
 		</programme>
 	<programme channel="I212.10108.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">The Dr. Oz Show</title>
@@ -1349,33 +1300,33 @@
 		<date>20170615</date>
 		<category lang="en">Talk</category>
 		</programme>
-	<programme channel="I214.10125.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">The Doctors</title>
-		<sub-title lang="en">Live Procedure of New Natural Filler; My House Is a Beehive; The Doctors Exclusive: Toddler's Rare Disease Turns Her Into Hulk Baby</sub-title>
-		<desc lang="en">A procedure using natural filler; a woman's home becomes a beehive; paid maternity leave; a rare disease turns a girl into a "hulk baby"; climate-control bedding; kitchen burns; dangerous cleaning mistakes; homeless-inspired fashion; burn survivor.</desc>
-		<date>20170221</date>
+	<programme channel="I212.10108.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CTV News Toronto [New]</title>
+		<desc lang="en">Breaking news, headlines and top stories from Toronto.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="I212.10108.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">The Social [New]</title>
+		<desc lang="en">How super foods can improve skin care and health.</desc>
+		<date>20170809</date>
 		<category lang="en">Talk</category>
-		<category lang="en">Medical</category>
+		<new />
+		</programme>
+	<programme channel="I212.10108.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">The Dr. Oz Show</title>
+		<sub-title lang="en">Dr. Oz Food Investigation: Supermarket Steaks: What's Good, What's Not and How Do You Know?</sub-title>
+		<desc lang="en">Buying steak at the supermarket; why food is sometimes under-baked, over-roasted or burned; how to make a boxed cake mix healthy.</desc>
+		<date>20161114</date>
+		<category lang="en">Talk</category>
 		<category lang="en">Health</category>
 		</programme>
-	<programme channel="I214.10125.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">The Price Is Right</title>
-		<desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
-		<category lang="en">Game show</category>
-		</programme>
-	<programme channel="I214.10125.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Let's Make a Deal</title>
-		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
-		<date>20170313</date>
-		<category lang="en">Game show</category>
-		</programme>
-	<programme channel="I214.10125.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">The Chew</title>
-		<sub-title lang="en">Viewer Chew &amp; A: Spring Edition</sub-title>
-		<desc lang="en">Actress Diane Lane; spring chicken stew; Michael goes on an adventure; salmon burger with dill and cucumber; culinary stylist Jackie Rothong.</desc>
-		<date>20170508</date>
+	<programme channel="I212.10108.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Dr. Phil</title>
+		<sub-title lang="en">Open Heart Surgery, a Pacemaker and 10 Days in a Coma: Our Beautiful Former Soccer Star Sister Is Still Addicted</sub-title>
+		<desc lang="en">Despite nearly dying, Bethany still uses heroin several times a day and has other dark secrets she is keeping from her family.</desc>
+		<date>20170512</date>
 		<category lang="en">Talk</category>
-		<category lang="en">Cooking</category>
 		</programme>
 	<programme channel="I214.10125.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">General Hospital [New]</title>
@@ -1747,42 +1698,32 @@
 		<desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
 		<category lang="en">Game show</category>
 		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Get the Look With Nina Leonard</title>
-		<desc lang="en">These easy wear, figure flattering separates give every woman a polished, chic look.</desc>
-		<category lang="en">Special</category>
-		<category lang="en">Shopping</category>
+	<programme channel="I214.10125.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Let's Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<date>20170306</date>
+		<category lang="en">Game show</category>
 		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807150000 +0000" stop="20170807153000 +0000">
-		<title lang="en">Turkuaz TV</title>
-		<desc lang="en">The Turkish community in Ontario.</desc>
-		<category lang="en">Community</category>
+	<programme channel="I214.10125.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">The Chew</title>
+		<sub-title lang="en">Sensational Summer Sweets</sub-title>
+		<desc lang="en">Cassata cake; cornbread blueberry trifle; caramel peanut butter popcorn donut drops; pineapple upside-down kebabs; pineapple vase centerpiece.</desc>
+		<date>20170613</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Cooking</category>
 		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807153000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Croatica TV</title>
-		<desc lang="en">News and local events from a Croatian-Canadian perspective.</desc>
-		<category lang="en">Community</category>
+	<programme channel="I214.10125.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">General Hospital [New]</title>
+		<desc lang="en">Kiki makes an impression; Felicia feels like a teenager again; Valerie is happy for Dillon.</desc>
+		<date>20170809</date>
+		<category lang="en">Soap</category>
+		<new />
 		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Noi Romanii</title>
-		<desc lang="en">Romanian news, current affairs and entertainment.</desc>
-		<category lang="en">News</category>
-		<category lang="en">Entertainment</category>
-		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Magyar Kepek TV</title>
-		<desc lang="en">Stories and events impacting the Hungarian-speaking community.</desc>
-		<category lang="en">Public affairs</category>
-		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid programming.</desc>
-		<category lang="en">Shopping</category>
-		</programme>
-	<programme channel="I215.10105.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Paid Programming</title>
-		<desc lang="en">Paid programming.</desc>
-		<category lang="en">Shopping</category>
+	<programme channel="I214.10125.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">Family Feud</title>
+		<desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+		<date>20170201</date>
+		<category lang="en">Game show</category>
 		</programme>
 	<programme channel="I215.10105.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">Get the Look With Nina Leonard</title>
@@ -2088,38 +2029,38 @@
 		<desc lang="en">Spanish magazine-style show.</desc>
 		<category lang="en">Newsmagazine</category>
 		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807133000 +0000" stop="20170807143000 +0000">
-		<title lang="en">Lama TV</title>
-		<desc lang="en">Topics relevant to local Arabic-speaking communities.</desc>
-		<category lang="en">Community</category>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">Nos Portugueses</title>
+		<category lang="en">Talk</category>
 		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Iran Zameen</title>
-		<desc lang="en">Local community events and issues.</desc>
-		<category lang="en">Community</category>
-		<category lang="en">Public affairs</category>
-		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807150000 +0000" stop="20170807153000 +0000">
-		<title lang="en">Pasargad Today</title>
-		<desc lang="en">Cultural affairs program for the Iranian community.</desc>
-		<category lang="en">Newsmagazine</category>
-		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807153000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Amantran</title>
-		<category lang="en">Newsmagazine</category>
-		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">New Canadians</title>
-		<desc lang="en">Stories of recent immigrants making Canada their home.</desc>
-		<category lang="en">Comedy</category>
-		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Front Page Philippines</title>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">Pasqyra Shqiptare</title>
+		<desc lang="en">Reflecting issues, events and concerns of Albanian speaking Canadians living in Southern Ontario.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I216.31558.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">My Secret Love [New]</title>
-		<category lang="en">Entertainment</category>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Caribbean Vibrations</title>
+		<desc lang="en">Caribbean culture in Canada and around the world.</desc>
+		<category lang="en">Public affairs</category>
+		</programme>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<category lang="en">Shopping</category>
+		</programme>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Paid Programming</title>
+		<desc lang="en">Paid programming.</desc>
+		<category lang="en">Shopping</category>
+		</programme>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Hillberg &amp; Berk Jewellery</title>
+		<category lang="en">Shopping</category>
+		<category lang="en">Special</category>
+		</programme>
+	<programme channel="I215.10105.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">A Regra do Jogo [New]</title>
+		<category lang="en">Soap</category>
 		<new />
 		</programme>
 	<programme channel="I216.31558.schedulesdirect.org" start="20170807180000 +0000" stop="20170807193000 +0000">
@@ -2503,45 +2444,31 @@
 		<desc lang="en">A news program.</desc>
 		<category lang="en">Public affairs</category>
 		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807140000 +0000" stop="20170807143000 +0000">
-		<title lang="en">Bloomberg North</title>
-		<desc lang="en">The week's economic stories.</desc>
-		<category lang="en">Bus./financial</category>
+	<programme channel="I216.31558.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">Muuqaalka Soomaalida</title>
+		<desc lang="en">News from the Somali-Canadian community.</desc>
+		<category lang="en">Community</category>
 		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">RightThisMinute [New]</title>
-		<desc lang="en">The latest, most interesting news, information and viral videos on the Web.</desc>
-		<date>20170807</date>
-		<category lang="en">News</category>
-		<category lang="en">Newsmagazine</category>
+	<programme channel="I216.31558.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">Integration with Hodan Nalayeh</title>
+		<desc lang="en">Showcasing the Somali-Canadian experience.</desc>
+		<category lang="en">Public affairs</category>
+		</programme>
+	<programme channel="I216.31558.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Wah Bai Wah</title>
+		<desc lang="en">A focus on the Canadian Punjabi Diaspora from around the world.</desc>
+		<category lang="en">Community</category>
+		</programme>
+	<programme channel="I216.31558.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">My Secret Love [New]</title>
+		<category lang="en">Entertainment</category>
 		<new />
 		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">The Pinkertons</title>
-		<sub-title lang="en">Mudd and Clay</sub-title>
-		<desc lang="en">Kate and Will find themselves facing a dangerous mob when they protect a notorious criminal awaiting trial.</desc>
-		<date>20150411</date>
-		<category lang="en">Crime drama</category>
-		<category lang="en">Action</category>
-		<category lang="en">Adventure</category>
-		<category lang="en">Mystery</category>
-		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Bloomberg Markets: Canada</title>
-		<desc lang="en">CEOs, money managers and top political figures provide an inside perspective on financial markets.</desc>
-		<category lang="en">Bus./financial</category>
-		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">Justice With Judge Mablean</title>
-		<desc lang="en">Judge Mablean Ephriam, who presided over "Divorce Court" from 1999-2006 as the first star of the revived version of the show, returns to the courtroom genre with his half-hour series that deals with life and the law. The former Los Angeles-based prosecutor takes on the typical cases that are found on TV court shows. The arbitrator says that her show "will be life because everything we do, it involves the law."</desc>
-		<category lang="en">Law</category>
-		<category lang="en">Reality</category>
-		</programme>
-	<programme channel="I218.10112.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Justice With Judge Mablean</title>
-		<desc lang="en">Judge Mablean Ephriam, who presided over "Divorce Court" from 1999-2006 as the first star of the revived version of the show, returns to the courtroom genre with his half-hour series that deals with life and the law. The former Los Angeles-based prosecutor takes on the typical cases that are found on TV court shows. The arbitrator says that her show "will be life because everything we do, it involves the law."</desc>
-		<category lang="en">Law</category>
-		<category lang="en">Reality</category>
+	<programme channel="I216.31558.schedulesdirect.org" start="20170809180000 +0000" stop="20170809193000 +0000">
+		<title lang="en">The Gentlemen of Wolgyesu Tailor Shop [New]</title>
+		<desc lang="en">The trials and tribulations of four men who work at Laurel Tree Tailor Shop.</desc>
+		<category lang="en">Drama</category>
+		<new />
 		</programme>
 	<programme channel="I218.10112.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Judge Judy</title>
@@ -2914,24 +2841,41 @@
 		<category lang="en">Adventure</category>
 		<category lang="en">Mystery</category>
 		</programme>
-	<programme channel="I250.17594.schedulesdirect.org" start="20170807130000 +0000" stop="20170807160000 +0000">
-		<title lang="en">CTV Morning Live Vancouver [New]</title>
-		<desc lang="en">Vancouver's breaking news, traffic and weather.</desc>
-		<category lang="en">News</category>
-		<new />
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Bloomberg Markets: Canada</title>
+		<desc lang="en">CEOs, money managers and top political figures provide an inside perspective on financial markets.</desc>
+		<category lang="en">Bus./financial</category>
 		</programme>
-	<programme channel="I250.17594.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Live with Kelly and Ryan [New]</title>
-		<desc lang="en">Billy Eichner ("Difficult People"); YouTube personalities Colleen Ballinger and Joey Graceffa go head-to-head in "Battle of the Web Stars"; Goo Goo Dolls perform; co-host Sisanie ("On Air With Ryan Seacrest").</desc>
-		<date>20170807</date>
-		<category lang="en">Talk</category>
-		<new />
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">Justice With Judge Mablean</title>
+		<desc lang="en">Judge Mablean Ephriam, who presided over "Divorce Court" from 1999-2006 as the first star of the revived version of the show, returns to the courtroom genre with his half-hour series that deals with life and the law. The former Los Angeles-based prosecutor takes on the typical cases that are found on TV court shows. The arbitrator says that her show "will be life because everything we do, it involves the law."</desc>
+		<category lang="en">Law</category>
+		<category lang="en">Reality</category>
 		</programme>
-	<programme channel="I250.17594.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">The View</title>
-		<desc lang="en">Reality TV star Kim Kardashian West; author David Grann.</desc>
-		<date>20170620</date>
-		<category lang="en">Talk</category>
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Justice With Judge Mablean</title>
+		<desc lang="en">Judge Mablean Ephriam, who presided over "Divorce Court" from 1999-2006 as the first star of the revived version of the show, returns to the courtroom genre with his half-hour series that deals with life and the law. The former Los Angeles-based prosecutor takes on the typical cases that are found on TV court shows. The arbitrator says that her show "will be life because everything we do, it involves the law."</desc>
+		<category lang="en">Law</category>
+		<category lang="en">Reality</category>
+		</programme>
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">Judge Judy</title>
+		<desc lang="en">This courtroom series stars former family court judge Judy Sheindlin. Each episode finds Judge Judy presiding over real small-claims cases inside a televised courtroom. Her no-nonsense, wisecracking approach has been unsuccessfully copied by other TV court judges.</desc>
+		<category lang="en">Law</category>
+		<category lang="en">Reality</category>
+		</programme>
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Judge Judy</title>
+		<desc lang="en">This courtroom series stars former family court judge Judy Sheindlin. Each episode finds Judge Judy presiding over real small-claims cases inside a televised courtroom. Her no-nonsense, wisecracking approach has been unsuccessfully copied by other TV court judges.</desc>
+		<category lang="en">Law</category>
+		<category lang="en">Reality</category>
+		</programme>
+	<programme channel="I218.10112.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">Degrassi: The Next Generation</title>
+		<sub-title lang="en">Secret</sub-title>
+		<desc lang="en">Craig becomes prejudiced about the discovery of his illness; Emma connects with Jay.</desc>
+		<date>20041116</date>
+		<category lang="en">Drama</category>
 		</programme>
 	<programme channel="I250.17594.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">The Marilyn Denis Show [New]</title>
@@ -3306,144 +3250,31 @@
 		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807141500 +0000" stop="20170807143000 +0000">
-		<title lang="en">The Adventures of Napkin Man</title>
-		<sub-title lang="en">Classroom Switch</sub-title>
-		<desc lang="en">Mister Anthony tells Kendra about the time Napkin Man helped Erica the little Viking girl.</desc>
-		<date>20140113</date>
-		<category lang="en">Fantasy</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807143000 +0000" stop="20170807144500 +0000">
-		<title lang="en">The Moblees</title>
-		<sub-title lang="en">The Super Swooper</sub-title>
-		<desc lang="en">Carlin acts like a superhero and finds a way to help his friends.</desc>
-		<date>20160907</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807144500 +0000" stop="20170807150000 +0000">
-		<title lang="en">Chirp</title>
-		<sub-title lang="en">Fly Me To Balloon</sub-title>
-		<desc lang="en">Chirp, Tweet and Squawk find an injured baby dragon.</desc>
-		<date>20160608</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807150000 +0000" stop="20170807151500 +0000">
-		<title lang="en">Ollie! The Boy Who Became What He Ate [New]</title>
-		<sub-title lang="en">Yogurt Hockey Hero</sub-title>
-		<desc lang="en">Ollie helps a nummling on a frozen yogurt lake.</desc>
-		<date>20170807</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Children</category>
+	<programme channel="I250.17594.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Live with Kelly and Ryan [New]</title>
+		<desc lang="en">Eva Longoria is Ryan's co-host; Brie Larson discusses the film "The Glass Castle"; "Greenleaf" star Rick Fox stops by; "Vsauce" hosts Michael Stevens and Jake Roper face off during "Battle of the Web Stars."</desc>
+		<date>20170809</date>
+		<category lang="en">Talk</category>
 		<new />
 		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807151500 +0000" stop="20170807152800 +0000">
-		<title lang="en">Arthur</title>
-		<sub-title lang="en">Baby Steps</sub-title>
-		<desc lang="en">Worried about her sister's future, DW enlists the help of Brain to determine if Kate's developmental skills are average.</desc>
-		<date>20130410</date>
-		<category lang="en">Educational</category>
-		<category lang="en">Animals</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
+	<programme channel="I250.17594.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">The View</title>
+		<desc lang="en">"Planet of the Apps" panelists Jessica Alba, will.i.am and Gary Vaynerchuk.</desc>
+		<date>20170615</date>
+		<category lang="en">Talk</category>
 		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807152800 +0000" stop="20170807153100 +0000">
-		<title lang="en">Big Block Sing Song</title>
-		<sub-title lang="en">Owl</sub-title>
-		<desc lang="en">An owl big block sings a song about playing peekaboo.</desc>
-		<date>20160725</date>
-		<category lang="en">Music</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
+	<programme channel="I250.17594.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">The Marilyn Denis Show [New]</title>
+		<desc lang="en">Three woman get diet and exercise plans and makeovers to match.</desc>
+		<date>20170809</date>
+		<category lang="en">Talk</category>
+		<new />
 		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807153100 +0000" stop="20170807160000 +0000">
-		<title lang="en">Daniel Tiger's Neighborhood</title>
-		<sub-title lang="en">Daniel Waits for Show and Tell; A Night Out at the Restaurant</sub-title>
-		<desc lang="en">Daniel is excited to share his book at show and tell; Daniel and Katerina have a tough time waiting at a restaurant.</desc>
-		<date>20121005</date>
-		<category lang="en">Educational</category>
-		<category lang="en">Entertainment</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807160000 +0000" stop="20170807161500 +0000">
-		<title lang="en">Lazoo</title>
-		<sub-title lang="en">Blustery Gus</sub-title>
-		<desc lang="en">Miku wants to ask Gus to stop playing rough but doesn't want to hurt his feelings.</desc>
-		<date>20170707</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Animated</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807161500 +0000" stop="20170807163000 +0000">
-		<title lang="en">Chirp</title>
-		<sub-title lang="en">Dragon Coaster</sub-title>
-		<desc lang="en">Chirp and his friends test amusement park rides.</desc>
-		<date>20160608</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807163000 +0000" stop="20170807164100 +0000">
-		<title lang="en">Bookaboo</title>
-		<sub-title lang="en">Ping Pong are the Best Friends</sub-title>
-		<desc lang="en">Clown/mime James Keylon reads the book "Ping &amp; Pong Are Best Friends."</desc>
-		<date>20130310</date>
-		<category lang="en">Educational</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807164100 +0000" stop="20170807164500 +0000">
-		<title lang="en">Will's Jams</title>
-		<sub-title lang="en">Jam!</sub-title>
-		<desc lang="en">Will goes back to the 60's to bring some life and colour back to breakfast.</desc>
-		<date>20160712</date>
-		<category lang="en">Health</category>
-		<category lang="en">Entertainment</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807164500 +0000" stop="20170807170000 +0000">
-		<title lang="en">You &amp; Me</title>
-		<sub-title lang="en">Pretzel Pirates</sub-title>
-		<desc lang="en">JP is welcomed on a pirate ship.</desc>
-		<date>20160725</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807170000 +0000" stop="20170807172500 +0000">
-		<title lang="en">Super Why!</title>
-		<sub-title lang="en">King Midas</sub-title>
-		<desc lang="en">Pig learns to appreciate what he has.</desc>
-		<date>20101115</date>
-		<category lang="en">Educational</category>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807172500 +0000" stop="20170807173000 +0000">
-		<title lang="en">Scout &amp; the Gumboot Kids</title>
-		<sub-title lang="en">The Case of the Busy Builder</sub-title>
-		<desc lang="en">The Gumboot Kids head out to a marshland to figure out who built a wooden lodge.</desc>
-		<date>20170418</date>
-		<category lang="en">Adventure</category>
-		<category lang="en">Environment</category>
-		<category lang="en">Children</category>
-		</programme>
-	<programme channel="I251.10100.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Daniel Tiger's Neighborhood</title>
-		<sub-title lang="en">Thank You, Grandpere Tiger!; Neighborhood Thank You Day</sub-title>
-		<desc lang="en">Grandpere Tiger visits; Daniel can't decide what he wants to write on his thank you note.</desc>
-		<date>20121025</date>
-		<category lang="en">Animated</category>
-		<category lang="en">Children</category>
-		<category lang="en">Educational</category>
-		<category lang="en">Entertainment</category>
+	<programme channel="I250.17594.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">CTV News Vancouver at Noon [New]</title>
+		<desc lang="en">Vancouver's top stories.</desc>
+		<category lang="en">News</category>
+		<new />
 		</programme>
 	<programme channel="I251.10100.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">Our Vancouver</title>
@@ -4019,42 +3850,111 @@
 		<category lang="en">Animated</category>
 		<category lang="en">Children</category>
 		</programme>
-	<programme channel="I252.10050.schedulesdirect.org" start="20170807130000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Global News Morning [New]</title>
-		<desc lang="en">British Columbia's local news stories; weather and traffic updates.</desc>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809152800 +0000" stop="20170809153100 +0000">
+		<title lang="en">Big Block Sing Song</title>
+		<sub-title lang="en">Brave</sub-title>
+		<desc lang="en">A band of blocks sing a song about the fear of monsters and scary salads.</desc>
+		<date>20160726</date>
+		<category lang="en">Music</category>
+		<category lang="en">Educational</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809153100 +0000" stop="20170809160000 +0000">
+		<title lang="en">Daniel Tiger's Neighborhood</title>
+		<sub-title lang="en">Good Morning Daniel; Goodnight Daniel</sub-title>
+		<desc lang="en">Daniel realizes the importance of his morning routine; Daniel has to get ready for bed, even though he would rather play.</desc>
+		<date>20121217</date>
+		<category lang="en">Educational</category>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809160000 +0000" stop="20170809161500 +0000">
+		<title lang="en">Lazoo</title>
+		<sub-title lang="en">New Record</sub-title>
+		<desc lang="en">The crew tries to break their own bagel tower record and Hoshi learns that sometimes it's a good idea to take a break.</desc>
+		<date>20170710</date>
+		<category lang="en">Adventure</category>
+		<category lang="en">Animated</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809161500 +0000" stop="20170809163000 +0000">
+		<title lang="en">Chirp</title>
+		<sub-title lang="en">Super Crime Fighters</sub-title>
+		<desc lang="en">Chirp and his friends are superheroes.</desc>
+		<date>20160820</date>
+		<category lang="en">Adventure</category>
+		<category lang="en">Educational</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809163000 +0000" stop="20170809164100 +0000">
+		<title lang="en">Bookaboo</title>
+		<sub-title lang="en">The Great Sheep Shenanigans with Sean Cullen</sub-title>
+		<desc lang="en">Comic Sean Cullen reads "The Great Sheep Shenanigans."</desc>
+		<date>20130324</date>
+		<category lang="en">Educational</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809164100 +0000" stop="20170809164500 +0000">
+		<title lang="en">Will's Jams</title>
+		<sub-title lang="en">I Feel So Blue</sub-title>
+		<desc lang="en">Will teaches about colors and emotions with the help of a whale, a green turtle, and a flying pig.</desc>
+		<date>20160713</date>
+		<category lang="en">Health</category>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809164500 +0000" stop="20170809170000 +0000">
+		<title lang="en">You &amp; Me</title>
+		<sub-title lang="en">You, Me and a Monster of the Sea</sub-title>
+		<desc lang="en">JP sets out to find the long-lost monster of the sea.</desc>
+		<date>20160727</date>
+		<category lang="en">Adventure</category>
+		<category lang="en">Educational</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809170000 +0000" stop="20170809172500 +0000">
+		<title lang="en">Super Why!</title>
+		<sub-title lang="en">George and the Dragon</sub-title>
+		<desc lang="en">Pig is afraid to ask for his toy back after the Giant steps on it.</desc>
+		<date>20090602</date>
+		<category lang="en">Educational</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809172500 +0000" stop="20170809173000 +0000">
+		<title lang="en">Scout &amp; the Gumboot Kids</title>
+		<sub-title lang="en">The Case of the Shrinking Friend</sub-title>
+		<desc lang="en">Scout wants to figure out why his friend is smaller.</desc>
+		<date>20170420</date>
+		<category lang="en">Adventure</category>
+		<category lang="en">Environment</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Daniel Tiger's Neighborhood</title>
+		<sub-title lang="en">Daniel Plays Ball; O Builds a Tower</sub-title>
+		<desc lang="en">Daniel is frustrated when he can't catch a ball; O the Owl wants to build the tallest tower in the world with blocks.</desc>
+		<date>20130211</date>
+		<category lang="en">Educational</category>
+		<category lang="en">Entertainment</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Dragons' Den</title>
+		<desc lang="en">An inventor puts the Dragons in the hot seat; a couple tries to nurse a deal; an entrepreneur tries to flip the Dragons; an idea gets the Dragons rolling in money.</desc>
+		<date>20140226</date>
+		<category lang="en">Reality</category>
+		<category lang="en">Bus./financial</category>
+		</programme>
+	<programme channel="I251.10100.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">CBC News Network [New]</title>
+		<desc lang="en">Breaking news from Canada and around the world.</desc>
 		<category lang="en">News</category>
-		<category lang="en">Weather</category>
 		<new />
-		</programme>
-	<programme channel="I252.10050.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">The Morning Show [New]</title>
-		<desc lang="en">News, weather, traffic updates and interviews with news makers, movers and shakers, and celebrities.</desc>
-		<category lang="en">News</category>
-		<new />
-		</programme>
-	<programme channel="I252.10050.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">100 Huntley Street [New]</title>
-		<desc lang="en">Providing the Gospel of Jesus Christ on a daily basis.</desc>
-		<date>20170807</date>
-		<category lang="en">Religious</category>
-		<category lang="en">Talk</category>
-		<new />
-		</programme>
-	<programme channel="I252.10050.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">Decked Out</title>
-		<sub-title lang="en">The White Trim Deck</sub-title>
-		<desc lang="en">Transforming a backyard.</desc>
-		<date>20110414</date>
-		<category lang="en">Home improvement</category>
-		<category lang="en">House/garden</category>
-		</programme>
-	<programme channel="I252.10050.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Eat St.</title>
-		<sub-title lang="en">Bacon Mania Baby</sub-title>
-		<desc lang="en">Bacon balls; bacon popcorn; bacon smoothie.</desc>
-		<date>20110909</date>
-		<category lang="en">Travel</category>
-		<category lang="en">Cooking</category>
 		</programme>
 	<programme channel="I252.10050.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Food Factory</title>
@@ -4485,27 +4385,55 @@
 		<category lang="en">Weather</category>
 		<new />
 		</programme>
-	<programme channel="I253.10136.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Best of BT Vancouver [New]</title>
-		<category lang="en">Entertainment</category>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">The Morning Show [New]</title>
+		<desc lang="en">News, weather, traffic updates and interviews with news makers, movers and shakers, and celebrities.</desc>
+		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I253.10136.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Best of BT Vancouver [New]</title>
-		<category lang="en">Entertainment</category>
-		<new />
-		</programme>
-	<programme channel="I253.10136.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">CityLine</title>
-		<desc lang="en">Hosted since 2008 by Tracy Moore, "Cityline" is the longest-running daytime talk show for women in Canadian history. The theme of the show changes daily and can consist of anything from food and entertaining to home decor and personal health, with expert guests stepping in to match Moore's enthusiasm and charisma with their expertise and knowledge of the topics at hand. Included on the guest list are celebrity chefs, fitness trainers, interior designers, relationship and parenting specialists and experts in beauty and fashion.</desc>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">100 Huntley Street [New]</title>
+		<desc lang="en">Providing the Gospel of Jesus Christ on a daily basis.</desc>
+		<date>20170809</date>
+		<category lang="en">Religious</category>
 		<category lang="en">Talk</category>
-		<category lang="en">House/garden</category>
-		<category lang="en">How-to</category>
+		<new />
 		</programme>
-	<programme channel="I253.10136.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">The Price Is Right</title>
-		<desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">Decked Out</title>
+		<sub-title lang="en">The Low Curve Deck</sub-title>
+		<desc lang="en">Andrew and Shirley have a empty backyard.</desc>
+		<date>20110428</date>
+		<category lang="en">Home improvement</category>
+		<category lang="en">House/garden</category>
+		</programme>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Eat St.</title>
+		<sub-title lang="en">Lip Smackin' Delights</sub-title>
+		<desc lang="en">A mobile truck serving Alabama-style crawfish in the heart of Brooklyn, New York, adds a little bit of Southern hospitality into all its dishes, including catfish po'boy and deep-fried pickles; a Tennessee truck offers Caribbean fare.</desc>
+		<date>20110923</date>
+		<category lang="en">Travel</category>
+		<category lang="en">Cooking</category>
+		</programme>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">Food Factory</title>
+		<sub-title lang="en">Like Momma Makes</sub-title>
+		<desc lang="en">Frozen pizza; spreadable butter; organic mushrooms; mini quiche Florentine.</desc>
+		<date>20121108</date>
+		<category lang="en">Consumer</category>
+		<category lang="en">Cooking</category>
+		</programme>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Who Wants to Be a Millionaire</title>
+		<desc lang="en">Contestants use lifelines to answer trivia questions for cash prizes; host Chris Harrison.</desc>
+		<date>20161123</date>
 		<category lang="en">Game show</category>
+		</programme>
+	<programme channel="I252.10050.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Global News at Noon [New]</title>
+		<desc lang="en">British Columbia's local news stories and weather.</desc>
+		<category lang="en">News</category>
+		<new />
 		</programme>
 	<programme channel="I253.10136.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">Let's Make a Deal</title>
@@ -4904,25 +4832,32 @@
 		<category lang="en">Newsmagazine</category>
 		<new />
 		</programme>
-	<programme channel="I400.11182.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I253.10136.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CityLine [New]</title>
+		<desc lang="en">Hosted since 2008 by Tracy Moore, "Cityline" is the longest-running daytime talk show for women in Canadian history. The theme of the show changes daily and can consist of anything from food and entertaining to home decor and personal health, with expert guests stepping in to match Moore's enthusiasm and charisma with their expertise and knowledge of the topics at hand. Included on the guest list are celebrity chefs, fitness trainers, interior designers, relationship and parenting specialists and experts in beauty and fashion.</desc>
+		<category lang="en">Talk</category>
+		<category lang="en">House/garden</category>
+		<category lang="en">How-to</category>
+		<new />
 		</programme>
-	<programme channel="I400.11182.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I253.10136.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">The Price Is Right</title>
+		<desc lang="en">"Come on down!" "The Price Is Right" -- hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown." The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+		<category lang="en">Game show</category>
 		</programme>
-	<programme channel="I400.11182.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I253.10136.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Let's Make a Deal</title>
+		<desc lang="en">Costumed contestants compete for cash and prizes.</desc>
+		<date>20170306</date>
+		<category lang="en">Game show</category>
 		</programme>
-	<programme channel="I400.11182.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I253.10136.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">The Chew</title>
+		<sub-title lang="en">Sensational Summer Sweets</sub-title>
+		<desc lang="en">Cassata cake; cornbread blueberry trifle; caramel peanut butter popcorn donut drops; pineapple upside-down kebabs; pineapple vase centerpiece.</desc>
+		<date>20170613</date>
+		<category lang="en">Talk</category>
+		<category lang="en">Cooking</category>
 		</programme>
 	<programme channel="I400.11182.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">SC</title>
@@ -5179,17 +5114,34 @@
 		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I401.18990.schedulesdirect.org" start="20170807130000 +0000" stop="20170807160000 +0000">
-		<title lang="en">CFL Football</title>
-		<sub-title lang="en">Saskatchewan Roughriders at BC Lions</sub-title>
-		<desc lang="en">West Division rivals square off in Week 7 when the Roughriders visit the Lions. Saskatchewan scored 18 fourth-quarter points in its big win over Toronto last week, while BC is coming off a tough loss to powerful Edmonton.</desc>
-		<category lang="en">Football</category>
+	<programme channel="I400.11182.schedulesdirect.org" start="20170809160000 +0000" stop="20170809181500 +0000">
+		<title lang="en">2017 Women's Rugby World Cup [New]</title>
+		<sub-title lang="en">Canada vs. Hong Kong</sub-title>
+		<desc lang="en">From Billings Park UCD in Dublin.</desc>
+		<category lang="en">Rugby</category>
+		<new />
+	</programme>
+	<programme channel="I400.11182.schedulesdirect.org" start="20170809181500 +0000" stop="20170809183000 +0000">
+		<title lang="en">SC [New]</title>
+		<sub-title lang="en">Europe's Top 50 Goals of 2016-17</sub-title>
+		<desc lang="en">The best and worst from the world of sports.</desc>
+		<date>20170707</date>
+		<category lang="en">Anthology</category>
+		<new />
 		</programme>
-	<programme channel="I401.18990.schedulesdirect.org" start="20170807160000 +0000" stop="20170807180000 +0000">
-		<title lang="en">MLS Soccer</title>
-		<sub-title lang="en">Toronto FC at D.C. United</sub-title>
-		<desc lang="en">From RFK Stadium in Washington, D.C.</desc>
-		<category lang="en">Soccer</category>
+	<programme channel="I400.11182.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Acura at the Majors: PGA Championship Preview [New]</title>
+		<desc lang="en">A preview of the 2017 PGA Championship.</desc>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Special</category>
+		<new />
+		</programme>
+	<programme channel="I400.11182.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">NFL Live [New]</title>
+		<desc lang="en">Host Trey Wingo and a rotating cast of analysts break down the latest news in the NFL each weekday, offering views on the players, coaches, teams and even front-office personnel. In the end, you'll know who's hurt, who's hot and who may be making headlines.</desc>
+		<category lang="en">Football</category>
+		<new />
 		</programme>
 	<programme channel="I401.18990.schedulesdirect.org" start="20170807180000 +0000" stop="20170807200000 +0000">
 		<title lang="en">Boxing</title>
@@ -5444,20 +5396,28 @@
 		<title lang="en">CFL Wired</title>
 		<category lang="en">Football</category>
 		</programme>
-	<programme channel="I402.90118.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I401.18990.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">CFL Wired</title>
+		<category lang="en">Football</category>
 		</programme>
-	<programme channel="I402.90118.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I401.18990.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">CFL Wired</title>
+		<category lang="en">Football</category>
 		</programme>
-	<programme channel="I402.90118.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I401.18990.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CFL Wired</title>
+		<category lang="en">Football</category>
+		</programme>
+	<programme channel="I401.18990.schedulesdirect.org" start="20170809170000 +0000" stop="20170809190000 +0000">
+		<title lang="en">2017 Canada Summer Games</title>
+		<sub-title lang="en">Men's Soccer</sub-title>
+		<desc lang="en">From Winnipeg.</desc>
+		<category lang="en">Olympics</category>
+		</programme>
+	<programme channel="I401.18990.schedulesdirect.org" start="20170809190000 +0000" stop="20170809210000 +0000">
+		<title lang="en">UEFA Super Cup Soccer</title>
+		<sub-title lang="en">Real Madrid CF vs. Manchester United</sub-title>
+		<category lang="en">Soccer</category>
 		</programme>
 	<programme channel="I402.90118.schedulesdirect.org" start="20170807170000 +0000" stop="20170807183000 +0000">
 		<title lang="en">NASCAR Racing</title>
@@ -5731,38 +5691,34 @@
 		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I402.90118.schedulesdirect.org" start="20170809160000 +0000" stop="20170809181500 +0000">
+		<title lang="en">2017 Women's Rugby World Cup [New]</title>
+		<sub-title lang="en">Canada vs. Hong Kong</sub-title>
+		<desc lang="en">From Billings Park UCD in Dublin.</desc>
+		<category lang="en">Rugby</category>
+		<new />
 		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Motoring TV</title>
-		<desc lang="en">A weekly look at the automotive world.</desc>
-		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Motorcycle Experience</title>
-		<desc lang="en">News and reviews for cycle enthusiasts.</desc>
-		<category lang="en">Motorcycle</category>
-		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
+	<programme channel="I402.90118.schedulesdirect.org" start="20170809181500 +0000" stop="20170809183000 +0000">
 		<title lang="en">SC</title>
-		<sub-title lang="en">Top NFL Plays of The Year</sub-title>
-		<desc lang="en">The best plays from the NFL season.</desc>
-		<date>20170201</date>
+		<sub-title lang="en">Europe's Top 50 Goals of 2016-17</sub-title>
+		<desc lang="en">The best and worst from the world of sports.</desc>
+		<date>20170707</date>
 		<category lang="en">Anthology</category>
 		</programme>
-	<programme channel="I403.90122.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">SC</title>
-		<sub-title lang="en">Top NFL Plays of The Year</sub-title>
-		<desc lang="en">The best plays from the NFL season.</desc>
-		<date>20170201</date>
-		<category lang="en">Anthology</category>
+	<programme channel="I402.90118.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Acura at the Majors: PGA Championship Preview [New]</title>
+		<desc lang="en">A preview of the 2017 PGA Championship.</desc>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Special</category>
+		<new />
+		</programme>
+	<programme channel="I402.90118.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">NBA: The Jump [New]</title>
+		<desc lang="en">After a three-year absence, longtime ESPN reporter Rachel Nichols returns to the Bristol campus to, among other duties, host a daily program focused on the NBA. The fast-paced, 30-minute show originates from Los Angeles and features appearances by current and former players. A rotating cast of ESPN analysts, reporters and insiders, including J.A. Adande, Amin Elhassan, Israel Gutierrez, Tom Haberstroh, Zach Lowe, Ramona Shelburne, Marc Stein and Brian Windhorst, provide commentary. Nichols says "The Jump" is a "great big conversation about all the fun, serious, smart, crazy, big-issue, small-smile moments that make the NBA so fascinating."</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Basketball</category>
+		<new />
 		</programme>
 	<programme channel="I403.90122.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">ESPN FC [New]</title>
@@ -6025,31 +5981,34 @@
 		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I404.90124.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
+	<programme channel="I403.90122.schedulesdirect.org" start="20170809160000 +0000" stop="20170809181500 +0000">
+		<title lang="en">2017 Women's Rugby World Cup [New]</title>
+		<sub-title lang="en">Canada vs. Hong Kong</sub-title>
+		<desc lang="en">From Billings Park UCD in Dublin.</desc>
+		<category lang="en">Rugby</category>
+		<new />
 		</programme>
-	<programme channel="I404.90124.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">SportsCentre</title>
-		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I404.90124.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Motoring TV</title>
-		<desc lang="en">A weekly look at the automotive world.</desc>
-		</programme>
-	<programme channel="I404.90124.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Motorcycle Experience</title>
-		<desc lang="en">News and reviews for cycle enthusiasts.</desc>
-		<category lang="en">Motorcycle</category>
-		</programme>
-	<programme channel="I404.90124.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
+	<programme channel="I403.90122.schedulesdirect.org" start="20170809181500 +0000" stop="20170809183000 +0000">
 		<title lang="en">SC</title>
-		<sub-title lang="en">Top NFL Plays of The Year</sub-title>
-		<desc lang="en">The best plays from the NFL season.</desc>
-		<date>20170201</date>
+		<sub-title lang="en">Europe's Top 50 Goals of 2016-17</sub-title>
+		<desc lang="en">The best and worst from the world of sports.</desc>
+		<date>20170707</date>
 		<category lang="en">Anthology</category>
+		</programme>
+	<programme channel="I403.90122.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Acura at the Majors: PGA Championship Preview [New]</title>
+		<desc lang="en">A preview of the 2017 PGA Championship.</desc>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Special</category>
+		<new />
+		</programme>
+	<programme channel="I403.90122.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">NBA: The Jump [New]</title>
+		<desc lang="en">After a three-year absence, longtime ESPN reporter Rachel Nichols returns to the Bristol campus to, among other duties, host a daily program focused on the NBA. The fast-paced, 30-minute show originates from Los Angeles and features appearances by current and former players. A rotating cast of ESPN analysts, reporters and insiders, including J.A. Adande, Amin Elhassan, Israel Gutierrez, Tom Haberstroh, Zach Lowe, Ramona Shelburne, Marc Stein and Brian Windhorst, provide commentary. Nichols says "The Jump" is a "great big conversation about all the fun, serious, smart, crazy, big-issue, small-smile moments that make the NBA so fascinating."</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Basketball</category>
+		<new />
 		</programme>
 	<programme channel="I404.90124.schedulesdirect.org" start="20170807173000 +0000" stop="20170807193000 +0000">
 		<title lang="en">First Take [New]</title>
@@ -6331,16 +6290,33 @@
 		<desc lang="en">News, highlights, analysis and interviews from the world of sports.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I405.18799.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Sportsnet Central</title>
-		<desc lang="en">Canada's premier destination for sports and analysis.</desc>
-		<category lang="en">News</category>
+	<programme channel="I404.90124.schedulesdirect.org" start="20170809160000 +0000" stop="20170809181500 +0000">
+		<title lang="en">2017 Women's Rugby World Cup [New]</title>
+		<sub-title lang="en">Canada vs. Hong Kong</sub-title>
+		<desc lang="en">From Billings Park UCD in Dublin.</desc>
+		<category lang="en">Rugby</category>
+		<new />
 		</programme>
-	<programme channel="I405.18799.schedulesdirect.org" start="20170807150000 +0000" stop="20170807163000 +0000">
-		<title lang="en">WTA Tennis [New]</title>
-		<sub-title lang="en">Rogers Cup: First Round</sub-title>
-		<desc lang="en">From Toronto.</desc>
-		<category lang="en">Tennis</category>
+	<programme channel="I404.90124.schedulesdirect.org" start="20170809181500 +0000" stop="20170809183000 +0000">
+		<title lang="en">SC</title>
+		<sub-title lang="en">Europe's Top 50 Goals of 2016-17</sub-title>
+		<desc lang="en">The best and worst from the world of sports.</desc>
+		<date>20170707</date>
+		<category lang="en">Anthology</category>
+		</programme>
+	<programme channel="I404.90124.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Acura at the Majors: PGA Championship Preview [New]</title>
+		<desc lang="en">A preview of the 2017 PGA Championship.</desc>
+		<category lang="en">Golf</category>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Special</category>
+		<new />
+		</programme>
+	<programme channel="I404.90124.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">NBA: The Jump [New]</title>
+		<desc lang="en">After a three-year absence, longtime ESPN reporter Rachel Nichols returns to the Bristol campus to, among other duties, host a daily program focused on the NBA. The fast-paced, 30-minute show originates from Los Angeles and features appearances by current and former players. A rotating cast of ESPN analysts, reporters and insiders, including J.A. Adande, Amin Elhassan, Israel Gutierrez, Tom Haberstroh, Zach Lowe, Ramona Shelburne, Marc Stein and Brian Windhorst, provide commentary. Nichols says "The Jump" is a "great big conversation about all the fun, serious, smart, crazy, big-issue, small-smile moments that make the NBA so fascinating."</desc>
+		<category lang="en">Sports talk</category>
+		<category lang="en">Basketball</category>
 		<new />
 		</programme>
 	<programme channel="I405.18799.schedulesdirect.org" start="20170807163000 +0000" stop="20170807213000 +0000">
@@ -6552,15 +6528,10 @@
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
-	<programme channel="I406.18798.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Sportsnet Central</title>
-		<desc lang="en">Canada's premier destination for sports and analysis.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I406.18798.schedulesdirect.org" start="20170807150000 +0000" stop="20170807163000 +0000">
-		<title lang="en">WTA Tennis [New]</title>
-		<sub-title lang="en">Rogers Cup: First Round</sub-title>
-		<desc lang="en">From Toronto.</desc>
+	<programme channel="I405.18799.schedulesdirect.org" start="20170809163000 +0000" stop="20170809213000 +0000">
+		<title lang="en">ATP Tennis [New]</title>
+		<sub-title lang="en">Rogers Cup: Third Round</sub-title>
+		<desc lang="en">From Montreal.</desc>
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
@@ -6773,15 +6744,10 @@
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
-	<programme channel="I407.18801.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Sportsnet Central</title>
-		<desc lang="en">Canada's premier destination for sports and analysis.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I407.18801.schedulesdirect.org" start="20170807150000 +0000" stop="20170807163000 +0000">
-		<title lang="en">WTA Tennis [New]</title>
-		<sub-title lang="en">Rogers Cup: First Round</sub-title>
-		<desc lang="en">From Toronto.</desc>
+	<programme channel="I406.18798.schedulesdirect.org" start="20170809163000 +0000" stop="20170809213000 +0000">
+		<title lang="en">ATP Tennis [New]</title>
+		<sub-title lang="en">Rogers Cup: Third Round</sub-title>
+		<desc lang="en">From Montreal.</desc>
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
@@ -6994,15 +6960,10 @@
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
-	<programme channel="I408.18800.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Sportsnet Central</title>
-		<desc lang="en">Canada's premier destination for sports and analysis.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I408.18800.schedulesdirect.org" start="20170807150000 +0000" stop="20170807163000 +0000">
-		<title lang="en">WTA Tennis [New]</title>
-		<sub-title lang="en">Rogers Cup: First Round</sub-title>
-		<desc lang="en">From Toronto.</desc>
+	<programme channel="I407.18801.schedulesdirect.org" start="20170809163000 +0000" stop="20170809213000 +0000">
+		<title lang="en">ATP Tennis [New]</title>
+		<sub-title lang="en">Rogers Cup: Third Round</sub-title>
+		<desc lang="en">From Montreal.</desc>
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
@@ -7215,19 +7176,12 @@
 		<category lang="en">Tennis</category>
 		<new />
 		</programme>
-	<programme channel="I409.68858.schedulesdirect.org" start="20170807140000 +0000" stop="20170807143000 +0000">
-		<title lang="en">Blue Jays in 30</title>
-		<sub-title lang="en">Toronto Blue Jays at Houston Astros</sub-title>
-		<desc lang="en">From Aug. 6, 2017.</desc>
-		<date>20170806</date>
-		<category lang="en">Baseball</category>
-		</programme>
-	<programme channel="I409.68858.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Blue Jays in 30</title>
-		<sub-title lang="en">Toronto Blue Jays at Houston Astros</sub-title>
-		<desc lang="en">From Aug. 6, 2017.</desc>
-		<date>20170806</date>
-		<category lang="en">Baseball</category>
+	<programme channel="I408.18800.schedulesdirect.org" start="20170809163000 +0000" stop="20170809213000 +0000">
+		<title lang="en">ATP Tennis [New]</title>
+		<sub-title lang="en">Rogers Cup: Third Round</sub-title>
+		<desc lang="en">From Montreal.</desc>
+		<category lang="en">Tennis</category>
+		<new />
 		</programme>
 	<programme channel="I409.68858.schedulesdirect.org" start="20170807150000 +0000" stop="20170807213000 +0000">
 		<title lang="en">WTA Tennis [New]</title>
@@ -7529,24 +7483,6 @@
 		<category lang="en">Tennis</category>
 		<new />
 	</programme>
-	<programme channel="I410.20203.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Morning Highlights</title>
-		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports.</desc>
-		</programme>
-	<programme channel="I410.20203.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Morning Highlights</title>
-		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports.</desc>
-		</programme>
-	<programme channel="I410.20203.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">SN360 Update</title>
-		<desc lang="en">The latest sports news, highlights and previews.</desc>
-		<category lang="en">Sports talk</category>
-		</programme>
-	<programme channel="I410.20203.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">SN360 Update</title>
-		<desc lang="en">The latest sports news, highlights and previews.</desc>
-		<category lang="en">Sports talk</category>
-		</programme>
 	<programme channel="I410.20203.schedulesdirect.org" start="20170807180000 +0000" stop="20170807190000 +0000">
 		<title lang="en">SN360 Update</title>
 		<desc lang="en">The latest sports news, highlights and previews.</desc>
@@ -7744,10 +7680,25 @@
 		<title lang="en">Morning Highlights</title>
 		<desc lang="en">A comprehensive look at the latest stories and highlights from the world of sports.</desc>
 		</programme>
-	<programme channel="I420.57735.schedulesdirect.org" start="20170807140000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Super League Rugby</title>
-		<sub-title lang="en">Featherstone Rovers vs. Leigh Centurions</sub-title>
-		<category lang="en">Rugby</category>
+	<programme channel="I410.20203.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="I410.20203.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="I410.20203.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="I410.20203.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">SN360 Update</title>
+		<desc lang="en">The latest sports news, highlights and previews.</desc>
+		<category lang="en">Sports talk</category>
 		</programme>
 	<programme channel="I420.57735.schedulesdirect.org" start="20170807160000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Soccer</title>
@@ -8049,45 +8000,31 @@
 		<title lang="en">Sportsnet World Review</title>
 		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807140000 +0000" stop="20170807143000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807150000 +0000" stop="20170807153000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807153000 +0000" stop="20170807160000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Sportsnet World Review</title>
+		<desc lang="en">Highlights, news and analysis from international sporting events.</desc>
 		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I501.17615.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">CTV News Channel</title>
-		<desc lang="en">National and international news headlines.</desc>
-		<category lang="en">News</category>
+	<programme channel="I420.57735.schedulesdirect.org" start="20170809180000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Premier League Review</title>
+		<sub-title lang="en">Review of the Season (16/17)</sub-title>
+		<date>20170717</date>
+		<category lang="en">Soccer</category>
 		</programme>
 	<programme channel="I501.17615.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">CTV News Channel</title>
@@ -8439,9 +8376,27 @@
 		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I502.10094.schedulesdirect.org" start="20170807140000 +0000" stop="20170807170000 +0000">
-		<title lang="en">CBC News Network With Suhana Meharchand [New]</title>
-		<desc lang="en">From Toronto.</desc>
+	<programme channel="I501.17615.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CTV News Channel [New]</title>
+		<desc lang="en">National and international news headlines.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="I501.17615.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">CTV News Channel [New]</title>
+		<desc lang="en">National and international news headlines.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="I501.17615.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">CTV News Channel [New]</title>
+		<desc lang="en">National and international news headlines.</desc>
+		<category lang="en">News</category>
+		<new />
+		</programme>
+	<programme channel="I501.17615.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">CTV News Channel [New]</title>
+		<desc lang="en">National and international news headlines.</desc>
 		<category lang="en">News</category>
 		<new />
 		</programme>
@@ -8623,15 +8578,9 @@
 		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I503.18168.schedulesdirect.org" start="20170807130000 +0000" stop="20170807160000 +0000">
-		<title lang="en">CP24 Dayside [New]</title>
-		<desc lang="en">Toronto's breaking news, weather and traffic.</desc>
-		<category lang="en">News</category>
-		<new />
-		</programme>
-	<programme channel="I503.18168.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">CP24 Live at Noon [New]</title>
-		<desc lang="en">Toronto's breaking news, weather and traffic.</desc>
+	<programme channel="I502.10094.schedulesdirect.org" start="20170809170000 +0000" stop="20170809210000 +0000">
+		<title lang="en">CBC News Network With Andrew Nichols [New]</title>
+		<desc lang="en">From Toronto.</desc>
 		<category lang="en">News</category>
 		<new />
 		</programme>
@@ -8911,47 +8860,17 @@
 		<category lang="en">News</category>
 		<new />
 		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807140000 +0000" stop="20170807143000 +0000">
-		<title lang="en">Legendary Motorcar</title>
-		<sub-title lang="en">Toy Trains and Real Cars</sub-title>
-		<desc lang="en">An old contact notifies Pete about a friend who is looking to sell a 1966 Chevelle, as well as 4,000 toy trains.</desc>
-		<date>20140422</date>
-		<category lang="en">Auto</category>
-		<category lang="en">Reality</category>
+	<programme channel="I503.18168.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">CP24 Live at Noon [New]</title>
+		<desc lang="en">Toronto's breaking news, weather and traffic.</desc>
+		<category lang="en">News</category>
+		<new />
 		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Legendary Motorcar</title>
-		<sub-title lang="en">Selling a Caddy in the Carolinas</sub-title>
-		<desc lang="en">Peter transports a 1955 Cadillac to the Greensboro Auto Auction in North Carolina, and arranges to meet with a potential seller during his trip.</desc>
-		<date>20140429</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Auto</category>
-		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807150000 +0000" stop="20170807153000 +0000">
-		<title lang="en">Legendary Motorcar</title>
-		<sub-title lang="en">Jessica's Healey</sub-title>
-		<desc lang="en">Peter meets an offbeat car collector looking to sell an Austin-Healey.</desc>
-		<date>20140506</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Auto</category>
-		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807153000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Legendary Motorcar</title>
-		<sub-title lang="en">Closing Deals and Cleaning Floors</sub-title>
-		<desc lang="en">Gary receives a call regarding a 1940 Dodge pickup truck, which could lead to a potentially larger deal on a Ford GT.</desc>
-		<date>20140513</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Auto</category>
-		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Business Day</title>
-		<desc lang="en">Stocks and stories expected to move the markets throughout the trading day in Canada and the U.S.</desc>
-		<category lang="en">Bus./financial</category>
-		</programme>
-	<programme channel="I504.20709.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Market Call Tonight</title>
-		<desc lang="en">Canada's leading stock market call-in program featuring top fund managers and market analysts.</desc>
-		<category lang="en">Bus./financial</category>
+	<programme channel="I503.18168.schedulesdirect.org" start="20170809170000 +0000" stop="20170809210000 +0000">
+		<title lang="en">CP24 Dayside [New]</title>
+		<desc lang="en">Toronto's breaking news, weather and traffic.</desc>
+		<category lang="en">News</category>
+		<new />
 		</programme>
 	<programme channel="I504.20709.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Legendary Motorcar</title>
@@ -9293,6 +9212,25 @@
 		<category lang="en">Bus./financial</category>
 		<new />
 		</programme>
+	<programme channel="I504.20709.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">The Business News [New]</title>
+		<desc lang="en">Coverage of all the market, company and economic news of the day.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Bus./financial</category>
+		<new />
+		</programme>
+	<programme channel="I504.20709.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Market Call [New]</title>
+		<desc lang="en">Various top fund managers as well as market analysts.</desc>
+		<category lang="en">Bus./financial</category>
+		<new />
+		</programme>
+	<programme channel="I504.20709.schedulesdirect.org" start="20170809180000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Business Day [New]</title>
+		<desc lang="en">Stocks and stories expected to move the markets throughout the trading day in Canada and the U.S.</desc>
+		<category lang="en">Bus./financial</category>
+		<new />
+		</programme>
 	<programme channel="I505.10170.schedulesdirect.org" start="20170807130000 +0000" stop="20170807190000 +0000">
 		<title lang="en">Mornings with Chris Mei</title>
 		<category lang="en">Weather</category>
@@ -9355,56 +9293,10 @@
 		<title lang="en">Mornings with Chris Mei</title>
 		<category lang="en">Weather</category>
 		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807140000 +0000" stop="20170807143000 +0000">
-		<title lang="en">Impact</title>
-		<desc lang="en">Global news for Asian audiences.</desc>
-		<category lang="en">News</category>
-		<category lang="en">Newsmagazine</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807143000 +0000" stop="20170807150000 +0000">
-		<title lang="en">HARDtalk</title>
-		<sub-title lang="en">Sir Ian McKellen, Actor</sub-title>
-		<desc lang="en">Stephen Sackur's guest for this birthday show is Sir Ian McKellen. Whether you think of him as Richard III, or Gandalf you'll know he's won hearts and accolades around the world, not just for five decades of work on stage and screen, but also for his passionate public advocacy, particular on the issue of gay rights. Celebrating twenty years of interviews with a special edition of the programme in front of an audience at the BBC Radio Theatre in London.</desc>
-		<date>20170403</date>
-		<category lang="en">News</category>
-		<category lang="en">Interview</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807150000 +0000" stop="20170807153000 +0000">
-		<title lang="en">Global With Matthew Amroliwala</title>
-		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807153000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Global With Matthew Amroliwala</title>
-		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Global With Matthew Amroliwala</title>
-		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807163000 +0000" stop="20170807164500 +0000">
-		<title lang="en">World Business Report</title>
-		<desc lang="en">The latest business news with informed analysis from the world's financial centres.</desc>
-		<category lang="en">Bus./financial</category>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807164500 +0000" stop="20170807170000 +0000">
-		<title lang="en">Sport Today</title>
-		<desc lang="en">All the latest sporting news and results from around the globe.</desc>
-		<category lang="en">Sports talk</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">Global With Matthew Amroliwala</title>
-		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I510.89542.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Focus on Africa</title>
-		<desc lang="en">The biggest stories from all over Africa and around the world.</desc>
-		<category lang="en">Newsmagazine</category>
-		<category lang="en">News</category>
+	<programme channel="I505.10170.schedulesdirect.org" start="20170809190000 +0000" stop="20170809233000 +0000">
+		<title lang="en">Afternoons on The Weather Network</title>
+		<desc lang="en">Weather tracking; meteorologist Jaclyn Whittal.</desc>
+		<category lang="en">Weather</category>
 		</programme>
 	<programme channel="I510.89542.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">BBC World News</title>
@@ -9978,51 +9870,53 @@
 		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807130000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Baby Sellers</title>
-		<desc lang="en">An Immigration and Customs Enforcement agent (Jennifer Finnigan) works under cover to capture a ruthless woman (Kirstie Alley) who traffics children under the guise of adoption.</desc>
-		<date>2013</date>
-		<category lang="en">Movie</category>
-		<category lang="en">Drama</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">Global With Matthew Amroliwala</title>
+		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Four Weddings Canada</title>
-		<sub-title lang="en">Kayla, Holly, Diana, Karen</sub-title>
-		<desc lang="en">Nightclub décor; Halloween themed wedding; Italian wedding; winter wedding.</desc>
-		<date>20120222</date>
-		<category lang="en">Reality</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">Global With Matthew Amroliwala</title>
+		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807160000 +0000" stop="20170807163000 +0000">
-		<title lang="en">Say Yes to the Dress Canada</title>
-		<sub-title lang="en">Men on Deck</sub-title>
-		<desc lang="en">Natalie brings her friend Leo dress shopping with her; Amber's brother helps her shop.</desc>
-		<date>20150107</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Fashion</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809163000 +0000" stop="20170809164500 +0000">
+		<title lang="en">World Business Report</title>
+		<desc lang="en">The latest business news with informed analysis from the world's financial centres.</desc>
+		<category lang="en">Bus./financial</category>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807163000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Say Yes to the Dress Canada</title>
-		<sub-title lang="en">Preconceived Notions</sub-title>
-		<desc lang="en">Amy enters the shop wanting a fitted dress, but tries on a ball gown; Ainsley wants a lace dress, but can't find one that wows her.</desc>
-		<date>20150107</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Fashion</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809164500 +0000" stop="20170809170000 +0000">
+		<title lang="en">Sport Today</title>
+		<desc lang="en">All the latest sporting news and results from around the globe.</desc>
+		<category lang="en">Sports talk</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807170000 +0000" stop="20170807173000 +0000">
-		<title lang="en">Say Yes to the Dress Canada</title>
-		<sub-title lang="en">Fashion Forward</sub-title>
-		<desc lang="en">Lily brings her grandmother, a fashion icon, to help her choose a dress; Qwyn takes the advice of her fashion stylist mother.</desc>
-		<date>20150114</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Fashion</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">Global With Matthew Amroliwala</title>
+		<desc lang="en">Matthew Amroliwala explains the day's global news and what it means to you, with reports from the BBC's network of correspondents around the world.</desc>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I601.15181.schedulesdirect.org" start="20170807173000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Say Yes to the Dress Canada</title>
-		<sub-title lang="en">Kids at Play</sub-title>
-		<desc lang="en">Janie traveled across the country with her fiancee and two children to find a dress; Alyssa and her two-year-old daughter look at dresses.</desc>
-		<date>20150114</date>
-		<category lang="en">Reality</category>
-		<category lang="en">Fashion</category>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Focus on Africa</title>
+		<desc lang="en">The biggest stories from all over Africa and around the world.</desc>
+		<category lang="en">Newsmagazine</category>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">BBC World News</title>
+		<desc lang="en">The latest international news from the BBC.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">World Sportsday</title>
+		<desc lang="en">All the latest sporting news and results from around the globe.</desc>
+		<category lang="en">Sports talk</category>
+		</programme>
+	<programme channel="I510.89542.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">Outside Source</title>
+		<desc lang="en">Ros Atkins with an innovative take on the latest global stories.</desc>
+		<category lang="en">News</category>
+		<category lang="en">Bus./financial</category>
 		</programme>
 	<programme channel="I601.15181.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Keasha's Perfect Dress</title>
@@ -10500,32 +10394,60 @@
 		<date>20170809</date>
 		<category lang="en">Entertainment</category>
 		</programme>
-	<programme channel="I722.21063.schedulesdirect.org" start="20170807124500 +0000" stop="20170807150000 +0000">
-		<title lang="en">Legenda 17</title>
-		<desc lang="en">V fil'me rasskazyvaetsya o stanovlenii sovetskogo khokkeista Valeriya Kharlamova. Sovetskie khokkeisty priletayut v Monreal'. Kanadtsy uvereny v pobede svoey komandy.</desc>
-		<date>2013</date>
-		<category lang="en">Movie</category>
-		<category lang="en">Biography</category>
-		<category lang="en">Drama</category>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">Top Million Dollar Agent</title>
+		<desc lang="en">A reality series about the real estate market in the GTA.</desc>
+		<date>20170809</date>
+		<category lang="en">Entertainment</category>
 		</programme>
-	<programme channel="I722.21063.schedulesdirect.org" start="20170807150000 +0000" stop="20170807151500 +0000">
-		<title lang="en">Novosti</title>
-		<desc lang="en">Ezhednevnaya informatsionnaya programma, soobshchayushchaya o naiboleye vazhnykh sobytiyakh.</desc>
-		<category lang="en">News</category>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809160000 +0000" stop="20170809163000 +0000">
+		<title lang="en">Property Virgins</title>
+		<sub-title lang="en">Tom and Christina</sub-title>
+		<desc lang="en">Tom and Christina want to end their long-distance relationship and buy a home together.</desc>
+		<date>20100823</date>
+		<category lang="en">House/garden</category>
 		</programme>
-	<programme channel="I722.21063.schedulesdirect.org" start="20170807151500 +0000" stop="20170807162000 +0000">
-		<title lang="en">Praktika</title>
-		<desc lang="en">V zhizni khirurga Evgenii Korolevoy vse bylo khorosho, poka odnazhdy v bol'nitsu ne prislali iz Moskvy novogo zaveduyushchego Sokolova. Novyy nachal'nik srazu nachinaet navodit' v otdelenii svoi poryadki i Zhene neprosto nayti s nim obshchiy yazyk.</desc>
-		<category lang="en">Drama</category>
-		<category lang="en">Medical</category>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809163000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Property Virgins</title>
+		<sub-title lang="en">Kelly</sub-title>
+		<desc lang="en">Kelly is looking for a Philadelphia starter home for herself and her two friends.</desc>
+		<date>20100217</date>
+		<category lang="en">House/garden</category>
 		</programme>
-	<programme channel="I722.21063.schedulesdirect.org" start="20170807162000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Sidelka</title>
-		<desc lang="en">Istoriya odnoy ocharovatel'noy avantyuristki, kotoraya sluchayno poyavlyaetsya v sem'e zazhitochnykh moskovskikh intelligentov s fal'shivymi rekomendatsiyami, chtoby poluchity mesto sidelki pri bol'noy materi glavy sem'i.</desc>
-		<date>2007</date>
-		<category lang="en">Movie</category>
-		<category lang="en">Romance</category>
-		<category lang="en">Drama</category>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809170000 +0000" stop="20170809173000 +0000">
+		<title lang="en">The Expandables</title>
+		<sub-title lang="en">One Too Many Walls</sub-title>
+		<desc lang="en">Designing and building new space without adding extra space. If it can't be bigger, make it better.</desc>
+		<date>20150219</date>
+		<category lang="en">House/garden</category>
+		</programme>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809173000 +0000" stop="20170809180000 +0000">
+		<title lang="en">The Expandables</title>
+		<sub-title lang="en">A Horror Show</sub-title>
+		<desc lang="en">Designing and building new space without adding extra space. If it can't be bigger, make it better.</desc>
+		<date>20150219</date>
+		<category lang="en">House/garden</category>
+		</programme>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">The Expandables</title>
+		<sub-title lang="en">Off the Floor</sub-title>
+		<desc lang="en">Sandy and Dax have house anxiety.</desc>
+		<date>20160317</date>
+		<category lang="en">House/garden</category>
+		</programme>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">The Expandables</title>
+		<sub-title lang="en">Reno Workout</sub-title>
+		<desc lang="en">A family's home is too small for their sports equipment.</desc>
+		<date>20160317</date>
+		<category lang="en">House/garden</category>
+		</programme>
+	<programme channel="I601.15181.schedulesdirect.org" start="20170809190000 +0000" stop="20170809193000 +0000">
+		<title lang="en">Suburgatory</title>
+		<sub-title lang="en">Decemberfold</sub-title>
+		<desc lang="en">George's newfound obsession with his body image alienates Dallas; Lisa figures out why Dalia is being nice to Tessa.</desc>
+		<date>20130403</date>
+		<category lang="en">Sitcom</category>
 		</programme>
 	<programme channel="I722.21063.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Novosti</title>
@@ -10863,45 +10785,29 @@
 		<category lang="en">Drama</category>
 		<category lang="en">Medical</category>
 		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807140000 +0000" stop="20170807142900 +0000">
-		<title lang="en">Headline News</title>
-		<desc lang="en">Latest news update.</desc>
+	<programme channel="I722.21063.schedulesdirect.org" start="20170809161000 +0000" stop="20170809162500 +0000">
+		<title lang="en">Mul'tfil'my</title>
+		<desc lang="en">Sbornik mul'tfil'mov.</desc>
+		<category lang="en">Fantasy</category>
+		<category lang="en">Animated</category>
+		<category lang="en">Children</category>
+		</programme>
+	<programme channel="I722.21063.schedulesdirect.org" start="20170809162500 +0000" stop="20170809180000 +0000">
+		<title lang="en">Priletit Vdrug Volshebnik</title>
+		<desc lang="en">Vera - krasivaya molodaya zhenshchina nikak ne mozhet ustroit'sya na rabotu, poskol'ku krasota ey tol'ko meshaet, ved' na kazhdom novom meste raboty ona poluchaet ot nachal'nika nepristoynye predlozheniya.</desc>
+		<date>2008</date>
+		<category lang="en">Movie</category>
+		<category lang="en">Romance</category>
+		</programme>
+	<programme channel="I722.21063.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">Novosti</title>
+		<desc lang="en">Ezhednevnaya informatsionnaya programma, soobshchayushchaya o naiboleye vazhnykh sobytiyakh.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807142900 +0000" stop="20170807150000 +0000">
-		<title lang="en">Going Underground</title>
-		<desc lang="en">The news UK viewers won't get on other networks.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807150000 +0000" stop="20170807152900 +0000">
-		<title lang="en">Headline News</title>
-		<desc lang="en">Latest news update.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807152900 +0000" stop="20170807160000 +0000">
-		<title lang="en">Cross Talk</title>
-		<desc lang="en">This TV debate club presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, dangers and challenges of the modern world.</desc>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807160000 +0000" stop="20170807162900 +0000">
-		<title lang="en">Headline News</title>
-		<desc lang="en">Latest news update.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807162900 +0000" stop="20170807170000 +0000">
-		<title lang="en">Documentary</title>
-		<desc lang="en">News-related events and politics, historical heritage, culture, traditions, cuisine, wildlife, travel and other aspects of life.</desc>
-		<category lang="en">Documentary</category>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807170000 +0000" stop="20170807172900 +0000">
-		<title lang="en">Headline News</title>
-		<desc lang="en">Latest news update.</desc>
-		<category lang="en">News</category>
-		</programme>
-	<programme channel="I724.58333.schedulesdirect.org" start="20170807172900 +0000" stop="20170807180000 +0000">
-		<title lang="en">SophieCo</title>
-		<desc lang="en">Host Sophie Shevardnadze delivers solid facts, as well as thoughtful opinions.</desc>
-		<category lang="en">News</category>
-		<category lang="en">News</category>
+	<programme channel="I722.21063.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190500 +0000">
+		<title lang="en">Osoboe Mnenie</title>
+		<desc lang="en">Vedushchie rossiyskie zhurnalisty i publitsisty otvechayut na voprosy zriteley.</desc>
+		<category lang="en">Talk</category>
 		</programme>
 	<programme channel="I724.58333.schedulesdirect.org" start="20170807180000 +0000" stop="20170807182900 +0000">
 		<title lang="en">Headline News</title>
@@ -11367,53 +11273,45 @@
 		<desc lang="en">Latest news update.</desc>
 		<category lang="en">News</category>
 		</programme>
-	<programme channel="I810.52745.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">When Nature Takes Its Course</sub-title>
-		<desc lang="en">Sixteen hunting-dog puppies struggle to live; a lion cub finds a canine companion; a baby white-cheeked gibbon; abandoned crane eggs.</desc>
-		<date>20081002</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809152900 +0000" stop="20170809160000 +0000">
+		<title lang="en">Documentary</title>
+		<desc lang="en">News-related events and politics, historical heritage, culture, traditions, cuisine, wildlife, travel and other aspects of life.</desc>
+		<category lang="en">Documentary</category>
 		</programme>
-	<programme channel="I810.52745.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">On Nature's Maternity Ward</sub-title>
-		<desc lang="en">Amanda, a lowland gorilla, becomes pregnant at a late age; an aardvark is examined; a Malayan tapir; striped hyena cubs are rejected by their mother.</desc>
-		<date>20081009</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809160000 +0000" stop="20170809162900 +0000">
+		<title lang="en">Headline News</title>
+		<desc lang="en">Latest news update.</desc>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I810.52745.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">Maternal Instinct</sub-title>
-		<desc lang="en">Female rhino protects her baby; kangaroo baby rejected by its mother; orangutan mothers raise their babies.</desc>
-		<date>20080911</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809162900 +0000" stop="20170809170000 +0000">
+		<title lang="en">Watching the Hawks</title>
+		<desc lang="en">Hosts, Tyrel Ventura, Sean Stone and Tabetha Wallace, along with their guests are your eyes and ears on the ground in the world of media, politics and pop culture.</desc>
+		<category lang="en">News</category>
 		</programme>
-	<programme channel="I810.52745.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">Human Intervention</sub-title>
-		<desc lang="en">Humans step in to save a mother flying fox and her babies; an umbilical cord is removed from a baby zebra.</desc>
-		<date>20080918</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
-		<video>
-			<aspect>16:9</aspect>
-			<quality>HDTV</quality>
-		</video>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809170000 +0000" stop="20170809172900 +0000">
+		<title lang="en">Headline News</title>
+		<desc lang="en">Latest news update.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809172900 +0000" stop="20170809180000 +0000">
+		<title lang="en">Boom Bust</title>
+		<desc lang="en">Erin Ade breaks through the mainstream headlines to find the stories that matter and help you navigate the Booms and the Busts.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809180000 +0000" stop="20170809182900 +0000">
+		<title lang="en">Headline News</title>
+		<desc lang="en">Latest news update.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809182900 +0000" stop="20170809190000 +0000">
+		<title lang="en">Going Underground</title>
+		<desc lang="en">The news UK viewers won't get on other networks.</desc>
+		<category lang="en">News</category>
+		</programme>
+	<programme channel="I724.58333.schedulesdirect.org" start="20170809190000 +0000" stop="20170809192900 +0000">
+		<title lang="en">Headline News</title>
+		<desc lang="en">Latest news update.</desc>
+		<category lang="en">News</category>
 		</programme>
 	<programme channel="I810.52745.schedulesdirect.org" start="20170807180000 +0000" stop="20170807183000 +0000">
 		<title lang="en">Zoo Juniors</title>
@@ -12172,11 +12070,49 @@
 			<quality>HDTV</quality>
 		</video>
 		</programme>
-	<programme channel="I1446.91306.schedulesdirect.org" start="20170807130000 +0000" stop="20170807160000 +0000">
-		<title lang="en">WWE SummerSlam</title>
-		<desc lang="en">From New York.</desc>
-		<category lang="en">Pro wrestling</category>
-		<category lang="en">Special</category>
+	<programme channel="I810.52745.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Arctic Secrets</title>
+		<sub-title lang="en">Fall on the Tundra</sub-title>
+		<desc lang="en">The Arctic is sparsely populated and shrouded in myth.</desc>
+		<date>20160518</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Nature</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I810.52745.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Arctic Secrets</title>
+		<sub-title lang="en">Wild Seas</sub-title>
+		<desc lang="en">Ninginganiq is so dangerous that even seasoned sailors keep away.</desc>
+		<date>20160518</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Nature</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I810.52745.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Kenya Wildlife Diaries</title>
+		<sub-title lang="en">Horses of the Sun</sub-title>
+		<desc lang="en">Lewa Conservacy is working to protect the Grévy's zebras population.</desc>
+		<date>20160119</date>
+		<category lang="en">Nature</category>
+		<category lang="en">Documentary</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I810.52745.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Kenya Wildlife Diaries</title>
+		<sub-title lang="en">Vanishing Wilderness</sub-title>
+		<desc lang="en">Kenya's growing human population means wildlife land is shrinking.</desc>
+		<date>20160126</date>
+		<category lang="en">Nature</category>
+		<category lang="en">Documentary</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
@@ -12799,49 +12735,65 @@
 			<quality>HDTV</quality>
 		</video>
 		</programme>
-	<programme channel="I1625.52745.schedulesdirect.org" start="20170807140000 +0000" stop="20170807150000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">When Nature Takes Its Course</sub-title>
-		<desc lang="en">Sixteen hunting-dog puppies struggle to live; a lion cub finds a canine companion; a baby white-cheeked gibbon; abandoned crane eggs.</desc>
-		<date>20081002</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809153000 +0000" stop="20170809160000 +0000">
+		<title lang="en">First Look</title>
+		<sub-title lang="en">Kurt Angle: The Essential Collection</sub-title>
+		<desc lang="en">Kurt Angle talks about some of his biggest moments and matches of his career, as well as his long-awaited return to the WWE.</desc>
+		<date>20170727</date>
+		<category lang="en">Pro wrestling</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
 		</video>
 		</programme>
-	<programme channel="I1625.52745.schedulesdirect.org" start="20170807150000 +0000" stop="20170807160000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">On Nature's Maternity Ward</sub-title>
-		<desc lang="en">Amanda, a lowland gorilla, becomes pregnant at a late age; an aardvark is examined; a Malayan tapir; striped hyena cubs are rejected by their mother.</desc>
-		<date>20081009</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Legends with JBL</title>
+		<sub-title lang="en">Sting</sub-title>
+		<desc lang="en">JBL sits-down with the "Icon" Sting in a rare interview that covers the Hall of Famer's WCW career as well as his retirement from WWE.</desc>
+		<date>20160819</date>
+		<category lang="en">Pro wrestling</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
 		</video>
 		</programme>
-	<programme channel="I1625.52745.schedulesdirect.org" start="20170807160000 +0000" stop="20170807170000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">Maternal Instinct</sub-title>
-		<desc lang="en">Female rhino protects her baby; kangaroo baby rejected by its mother; orangutan mothers raise their babies.</desc>
-		<date>20080911</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">205 Live</title>
+		<desc lang="en">The Cruiserweight division showcase their unparalleled abilities. World-class talents perform breathtaking feats of athleticism.</desc>
+		<date>20170808</date>
+		<category lang="en">Pro wrestling</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
 		</video>
 		</programme>
-	<programme channel="I1625.52745.schedulesdirect.org" start="20170807170000 +0000" stop="20170807180000 +0000">
-		<title lang="en">Baby Planet</title>
-		<sub-title lang="en">Human Intervention</sub-title>
-		<desc lang="en">Humans step in to save a mother flying fox and her babies; an umbilical cord is removed from a baby zebra.</desc>
-		<date>20080918</date>
-		<category lang="en">Animals</category>
-		<category lang="en">Nature</category>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809180000 +0000" stop="20170809183000 +0000">
+		<title lang="en">Table for 3</title>
+		<sub-title lang="en">WCW vs. NWO</sub-title>
+		<date>20170807</date>
+		<category lang="en">Pro wrestling</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809183000 +0000" stop="20170809190000 +0000">
+		<title lang="en">First Look</title>
+		<sub-title lang="en">Kurt Angle: The Essential Collection</sub-title>
+		<desc lang="en">Kurt Angle talks about some of his biggest moments and matches of his career, as well as his long-awaited return to the WWE.</desc>
+		<date>20170727</date>
+		<category lang="en">Pro wrestling</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1446.91306.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">The Monday Night War</title>
+		<sub-title lang="en">The War Begins</sub-title>
+		<desc lang="en">Media mogul Ted Turner launches WCW Monday Nitro in direct competition with WWE's Monday Night Raw. Behind Executive Vice President Eric Bischoff, WCW rises to national prominence and ignites a primetime power struggle.</desc>
+		<date>20140707</date>
+		<category lang="en">Pro wrestling</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
@@ -13599,6 +13551,54 @@
 		<date>20160518</date>
 		<category lang="en">Documentary</category>
 		<category lang="en">Nature</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1625.52745.schedulesdirect.org" start="20170809160000 +0000" stop="20170809170000 +0000">
+		<title lang="en">Arctic Secrets</title>
+		<sub-title lang="en">Fall on the Tundra</sub-title>
+		<desc lang="en">The Arctic is sparsely populated and shrouded in myth.</desc>
+		<date>20160518</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Nature</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1625.52745.schedulesdirect.org" start="20170809170000 +0000" stop="20170809180000 +0000">
+		<title lang="en">Arctic Secrets</title>
+		<sub-title lang="en">Wild Seas</sub-title>
+		<desc lang="en">Ninginganiq is so dangerous that even seasoned sailors keep away.</desc>
+		<date>20160518</date>
+		<category lang="en">Documentary</category>
+		<category lang="en">Nature</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1625.52745.schedulesdirect.org" start="20170809180000 +0000" stop="20170809190000 +0000">
+		<title lang="en">Kenya Wildlife Diaries</title>
+		<sub-title lang="en">Horses of the Sun</sub-title>
+		<desc lang="en">Lewa Conservacy is working to protect the Grévy's zebras population.</desc>
+		<date>20160119</date>
+		<category lang="en">Nature</category>
+		<category lang="en">Documentary</category>
+		<video>
+			<aspect>16:9</aspect>
+			<quality>HDTV</quality>
+		</video>
+		</programme>
+	<programme channel="I1625.52745.schedulesdirect.org" start="20170809190000 +0000" stop="20170809200000 +0000">
+		<title lang="en">Kenya Wildlife Diaries</title>
+		<sub-title lang="en">Vanishing Wilderness</sub-title>
+		<desc lang="en">Kenya's growing human population means wildlife land is shrinking.</desc>
+		<date>20160126</date>
+		<category lang="en">Nature</category>
+		<category lang="en">Documentary</category>
 		<video>
 			<aspect>16:9</aspect>
 			<quality>HDTV</quality>
